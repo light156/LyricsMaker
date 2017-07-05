@@ -1,0 +1,45 @@
+﻿<Window x:Class="LyricsMaker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:LyricsMaker"
+        Title="lrc编辑器" Height="600" Width="700" KeyDown="Window_KeyDown_1">
+    <Window.Resources>
+        <local:Converter x:Key="myCvt"></local:Converter>
+    </Window.Resources>
+    <Grid>
+        <GroupBox Header="音乐操作" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Height="195" Width="110">
+            <Grid>
+                <Button x:Name="Start" IsEnabled="False"  Content="开始播放" HorizontalAlignment="Center" Margin="0,15,0,0" VerticalAlignment="Top" Width="70" Height="23" Click="Start_Click"/>
+                <Button x:Name="Stop" IsEnabled="False" Content="停止播放" HorizontalAlignment="Center" Margin="0,55,0,0" VerticalAlignment="Top" Width="70" Height="23" Click="Stop_Click"/>
+                <Button x:Name="Forward" IsEnabled="False" Content="快进5秒" HorizontalAlignment="Center" Margin="0,95,0,0" VerticalAlignment="Top" Width="70" Height="23" Click="Forward_Click"/>
+                <Button x:Name="Backward" IsEnabled="False" Content="快退5秒" HorizontalAlignment="Center" Margin="0,135,0,0" VerticalAlignment="Top" Width="70" Height="23" Click="Backward_Click"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="文件操作" HorizontalAlignment="Left" Margin="10,250,0,0" VerticalAlignment="Top" Height="115" Width="110">
+            <Grid>
+                <Button x:Name="Refresh" IsEnabled="False" Content="重载歌词" HorizontalAlignment="Center" Margin="0,15,0,0" VerticalAlignment="Top" Width="70" Height="23" Click="Refresh_Click"/>
+                <Button x:Name="Save" IsEnabled="False" Content="保存lrc" HorizontalAlignment="Center" Margin="0,55,0,0" VerticalAlignment="Top" Width="70" Height="23" Click="Save_Click"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="歌曲信息" HorizontalAlignment="Left" Margin="10,385,0,20" VerticalAlignment="Stretch" Width="110">
+            <Grid>
+                <Label x:Name="time" Content="时长：" HorizontalAlignment="Left" Margin="5,10,0,0" VerticalAlignment="Top"/>
+                <Label Content="歌名：" HorizontalAlignment="Left" Margin="5,40,0,0" VerticalAlignment="Top"/>
+                <Label HorizontalAlignment="Left" Margin="5,70,0,0" VerticalAlignment="Top" MaxWidth="100">
+                    <TextBlock x:Name="name" TextWrapping="Wrap" Text="" />
+                </Label>
+            </Grid>
+        </GroupBox>
+        <ListView x:Name="LyricsList" HorizontalAlignment="Stretch" Margin="145,75,25,20" VerticalAlignment="Stretch" KeyDown="LyricsList_KeyDown" ItemsSource="{Binding Path=Lyrics}" SelectionMode="Single" PreviewMouseRightButtonUp="LyricsList_PreviewMouseRightButtonUp"/>
+        <Menu HorizontalAlignment="Stretch" VerticalAlignment="Top">
+            <MenuItem Header="导入歌曲" Click="MenuItem_Click_1"/>
+            <MenuItem Header="导入歌词" Click="MenuItem_Click_2" />
+            <MenuItem Header="帮助" Click="MenuItem_Click_3"/>
+        </Menu>
+        <Grid HorizontalAlignment="Stretch" Height="45" Margin="145,25,25,0" VerticalAlignment="Top">
+            <Slider x:Name="slider" HorizontalAlignment="Stretch" Margin="70,0,60,0" VerticalAlignment="Center" IsEnabled="False" PreviewMouseDown="slider_PreviewMouseDown" PreviewMouseUp="slider_PreviewMouseUp" />
+            <Label x:Name="currtime" Content="{Binding ElementName=slider,Path=Value, Converter={StaticResource myCvt}}" HorizontalAlignment="Left" Margin="15,0,0,0" VerticalAlignment="Center"/>
+            <Label x:Name="totaltime" Content="??:??" HorizontalAlignment="Right" Margin="0,0,10,0" VerticalAlignment="Center"/>
+        </Grid>
+    </Grid>
+</Window>

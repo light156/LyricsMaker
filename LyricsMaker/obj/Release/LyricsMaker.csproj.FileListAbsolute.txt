@@ -1,0 +1,30 @@
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\bin\Release\LyricsMaker.exe.config
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\bin\Release\LyricsMaker.exe
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\bin\Release\LyricsMaker.pdb
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Release\MainWindow.g.cs
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Release\App.g.cs
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Release\GeneratedInternalTypeHelper.g.cs
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Release\LyricsMaker_MarkupCompile.cache
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Release\LyricsMaker_MarkupCompile.lref
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Release\MainWindow.baml
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Release\LyricsMaker.g.resources
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Release\LyricsMaker.Properties.Resources.resources
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Release\LyricsMaker.csproj.GenerateResource.Cache
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Release\LyricsMaker.exe
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Release\LyricsMaker.pdb
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Release\LyricsMaker.csprojResolveAssemblyReference.cache
+C:\Users\Juda\Desktop\LyricsMaker\LyricsMaker\bin\Release\LyricsMaker.exe.config
+C:\Users\Juda\Desktop\LyricsMaker\LyricsMaker\obj\Release\LyricsMaker.exe
+C:\Users\Juda\Desktop\LyricsMaker\LyricsMaker\obj\Release\LyricsMaker.pdb
+C:\Users\Juda\Desktop\LyricsMaker\LyricsMaker\bin\Release\LyricsMaker.exe
+C:\Users\Juda\Desktop\LyricsMaker\LyricsMaker\bin\Release\LyricsMaker.pdb
+C:\Users\Juda\Desktop\LyricsMaker\LyricsMaker\obj\Release\LyricsMaker.csprojResolveAssemblyReference.cache
+C:\Users\Juda\Desktop\LyricsMaker\LyricsMaker\obj\Release\MainWindow.g.cs
+C:\Users\Juda\Desktop\LyricsMaker\LyricsMaker\obj\Release\App.g.cs
+C:\Users\Juda\Desktop\LyricsMaker\LyricsMaker\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Juda\Desktop\LyricsMaker\LyricsMaker\obj\Release\LyricsMaker_MarkupCompile.cache
+C:\Users\Juda\Desktop\LyricsMaker\LyricsMaker\obj\Release\LyricsMaker_MarkupCompile.lref
+C:\Users\Juda\Desktop\LyricsMaker\LyricsMaker\obj\Release\MainWindow.baml
+C:\Users\Juda\Desktop\LyricsMaker\LyricsMaker\obj\Release\LyricsMaker.g.resources
+C:\Users\Juda\Desktop\LyricsMaker\LyricsMaker\obj\Release\LyricsMaker.Properties.Resources.resources
+C:\Users\Juda\Desktop\LyricsMaker\LyricsMaker\obj\Release\LyricsMaker.csproj.GenerateResource.Cache

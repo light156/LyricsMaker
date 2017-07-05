@@ -1,0 +1,30 @@
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Debug\MainWindow.g.cs
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Debug\App.g.cs
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Debug\LyricsMaker_MarkupCompile.cache
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Debug\LyricsMaker_MarkupCompile.lref
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\bin\Debug\LyricsMaker.exe.config
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\bin\Debug\LyricsMaker.exe
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\bin\Debug\LyricsMaker.pdb
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Debug\LyricsMaker.csprojResolveAssemblyReference.cache
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Debug\MainWindow.baml
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Debug\LyricsMaker.g.resources
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Debug\LyricsMaker.Properties.Resources.resources
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Debug\LyricsMaker.csproj.GenerateResource.Cache
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Debug\LyricsMaker.exe
+F:\Microsoft Visual Studio\Projects\LyricsMaker\LyricsMaker\obj\Debug\LyricsMaker.pdb
+C:\Users\wy\Desktop\LyricsMaker\LyricsMaker\bin\Debug\LyricsMaker.exe.config
+C:\Users\wy\Desktop\LyricsMaker\LyricsMaker\bin\Debug\LyricsMaker.exe
+C:\Users\wy\Desktop\LyricsMaker\LyricsMaker\bin\Debug\LyricsMaker.pdb
+C:\Users\wy\Desktop\LyricsMaker\LyricsMaker\obj\Debug\LyricsMaker.csprojResolveAssemblyReference.cache
+C:\Users\wy\Desktop\LyricsMaker\LyricsMaker\obj\Debug\MainWindow.g.cs
+C:\Users\wy\Desktop\LyricsMaker\LyricsMaker\obj\Debug\App.g.cs
+C:\Users\wy\Desktop\LyricsMaker\LyricsMaker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\wy\Desktop\LyricsMaker\LyricsMaker\obj\Debug\LyricsMaker_MarkupCompile.cache
+C:\Users\wy\Desktop\LyricsMaker\LyricsMaker\obj\Debug\LyricsMaker_MarkupCompile.lref
+C:\Users\wy\Desktop\LyricsMaker\LyricsMaker\obj\Debug\MainWindow.baml
+C:\Users\wy\Desktop\LyricsMaker\LyricsMaker\obj\Debug\LyricsMaker.g.resources
+C:\Users\wy\Desktop\LyricsMaker\LyricsMaker\obj\Debug\LyricsMaker.Properties.Resources.resources
+C:\Users\wy\Desktop\LyricsMaker\LyricsMaker\obj\Debug\LyricsMaker.csproj.GenerateResource.Cache
+C:\Users\wy\Desktop\LyricsMaker\LyricsMaker\obj\Debug\LyricsMaker.exe
+C:\Users\wy\Desktop\LyricsMaker\LyricsMaker\obj\Debug\LyricsMaker.pdb
